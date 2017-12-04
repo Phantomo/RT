@@ -19,4 +19,4 @@ To run project use command
 ```
 $./RT
 ```
-You must see GUI, where presented ready scenes. Open scene use left mouse button to change map use right mouse button.
+You must see GUI, where presented ready scenes. To open scene use left mouse button to change map use right mouse button.
