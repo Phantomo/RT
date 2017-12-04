@@ -2,7 +2,7 @@
 RT it's UNIT Factory(42 school) project where I and 3 other teammates created ray-tracing program.
 Program have small GUI and own map parser.
 
-##Usage
+## Usage
 
 Use command
 ```
